@@ -238,5 +238,3 @@ class NewUnit(Unit):
 For support, please open an issue on GitHub or contact [bipinpradeep00@gmail.com](mailto:bipinpradeep00@gmil.com).
 
 ---
-
-**Built with ❤️ using Python and OOP principles**
