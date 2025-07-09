@@ -223,13 +223,9 @@ class NewUnit(Unit):
 - Large armies (>7 platoons) may have performance issues due to factorial complexity
 - Input validation could be more robust for edge cases
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Bipin Pradeep** - *Initial work* - [https://github.com/Bipinpradeep](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -239,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
+For support, please open an issue on GitHub or contact [bipinpradeep00@gmail.com](mailto:bipinpradeep00@gmil.com).
 
 ---
 
